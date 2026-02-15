@@ -1,6 +1,6 @@
 # Springfield Armory Echelon 9mm — Optics Cover Plate
 
-Small OpenSCAD project to generate a tapered cover plate with countersunk screw holes and edge notches.
+Small OpenSCAD project to generate a cover plate with countersunk screw holes and edge notches.
 
 ## Files
 - `echelon_cover_plate.scad` — main model (prismoid + holes + notches).
